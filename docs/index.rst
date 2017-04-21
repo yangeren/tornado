@@ -18,6 +18,7 @@ can scale to tens of thousands of open connections, making it ideal for
 applications that require a long-lived connection to each user.
 
 Quick links
+快速链接
 -----------
 
 * Current version: |version| (`download from PyPI <https://pypi.python.org/pypi/tornado>`_, :doc:`release notes <releases>`)
